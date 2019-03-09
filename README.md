@@ -5,7 +5,7 @@
 skipgram_chinese.py -- 源码<br>
 usage_example.py -- 使用示例（需下载word2vec.txt）<br>
 - **语料与模型**<br>
-语料 -- 金庸全集（注意：生成通用词向量应使用其他标准语料库，可以参考https://github.com/brightmart/nlp_chinese_corpus）<br>
+语料 -- 金庸全集（注意：生成通用词向量应使用其他标准语料库，可以参考https://github.com/brightmart/nlp_chinese_corpus<br>
 模型 -- word2vec.txt (10万词，100维向量表示)<br>
 文件较大，均提供外链下载<br>
 - **效果示例**<br>
