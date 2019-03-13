@@ -23,3 +23,5 @@ pd.Series(word2vec_model.most_similar(u'乔峰'))
 7    (张翠山, 0.5377693176269531)<br>
 8    (车尔库, 0.5314956903457642)<br>
 9    (令狐冲, 0.5277308821678162)<br>*
+- **更多详见**<br>
+https://www.shushili.cn/wordpress/?p=304
